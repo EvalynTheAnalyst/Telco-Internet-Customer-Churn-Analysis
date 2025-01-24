@@ -7,6 +7,9 @@ This project used MySql to conduct EDA and Tableau for analysis.
 The data for this project was obtained from Kaggle.
 Link:https://www.kaggle.com/datasets/aephidayatuloh/telco-customer-churn
 
+## Dashboard
+https://public.tableau.com/views/Tescovisualization/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+
 ## Project Overview:
 The goal of this project is to obtain insights on reasons why customers exit the company, highlighting trends in retention rates, customer tenure, and the impact of offers and services. These insights are critical to understanding customer behavior and developing strategies to minimize churn while improving overall retention.
 
