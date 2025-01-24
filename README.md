@@ -1,7 +1,7 @@
 # Telco-Internet-Customer-Churn-Analysis
 This project used MySql to conduct EDA and Tableau for analysis.
 
-<img width="775" alt="image" src=(https://github.com/EvalynTheAnalyst/Telco-Internet-Customer-Churn-Analysis/blob/c5d87b1cc23ddcf6b7513d34c2f28d8046af3c80/Dashboard%201.png)>
+<img width="775" alt="image" src=https://github.com/EvalynTheAnalyst/Telco-Internet-Customer-Churn-Analysis/blob/c5d87b1cc23ddcf6b7513d34c2f28d8046af3c80/Dashboard%201.png>
 
 ## Data Source 
 The data for this project was obtained from Kaggle.
